@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/hw22-order-foods-redux-toolkit/static/css/main.dd8f0a04.css",
+    "main.js": "/hw22-order-foods-redux-toolkit/static/js/main.7e283964.js",
+    "static/media/foodPhoto.png": "/hw22-order-foods-redux-toolkit/static/media/foodPhoto.1869efe11eed99b0f914.png",
+    "static/media/Group.svg": "/hw22-order-foods-redux-toolkit/static/media/Group.d28f1f24626a511a73b152f85c1cc312.svg",
+    "index.html": "/hw22-order-foods-redux-toolkit/index.html",
+    "static/media/plusAdd.svg": "/hw22-order-foods-redux-toolkit/static/media/plusAdd.05d9eeabf7804fabf3526a8f976f9d1f.svg",
+    "static/media/plus.svg": "/hw22-order-foods-redux-toolkit/static/media/plus.02872023d5c2327766f84b512bedce1c.svg",
+    "static/media/minus.svg": "/hw22-order-foods-redux-toolkit/static/media/minus.c3f6a9430af2b1e67575990b6a96d6f7.svg",
+    "main.dd8f0a04.css.map": "/hw22-order-foods-redux-toolkit/static/css/main.dd8f0a04.css.map",
+    "main.7e283964.js.map": "/hw22-order-foods-redux-toolkit/static/js/main.7e283964.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd8f0a04.css",
+    "static/js/main.7e283964.js"
+  ]
+}
